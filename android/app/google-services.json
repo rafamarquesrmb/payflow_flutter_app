@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "502713485649",
+    "project_id": "app-cashflow-nlw6-rmb",
+    "storage_bucket": "app-cashflow-nlw6-rmb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502713485649:android:c2cbd6316e7ad236692b70",
+        "android_client_info": {
+          "package_name": "com.example.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502713485649-am28eorn67cpfs8gthvgbpb9dgsrpc71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "f66be48dfdf9ea4227adffa63b140767cabdb772"
+          }
+        },
+        {
+          "client_id": "502713485649-neu4mhnbmec3nsu51k8ikt2gpjcslpva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2iYbxC9LIswQ8a6uAiLnxfNMT_nda8OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502713485649-neu4mhnbmec3nsu51k8ikt2gpjcslpva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
