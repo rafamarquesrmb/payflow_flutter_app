@@ -17,7 +17,7 @@ App Payflow was created using Flutter, with the programming language Dart, and u
 
   
 
-This project was created following the [Rocketseat](https://rocketseat.com.br/) "NextLevelWeek 6" Event between 06/21/2021 and 06/27/2021, on the Flutter learning trail, taught by Instructor Gabriel Sávio [@gabuldev](https://github .com/gabuldev). You can see the entire rocketseat project in this [repository](https://github.com/rocketseat-education/nlw-06-flutter). 
+This project was created following the [Rocketseat](https://rocketseat.com.br/) "NextLevelWeek 6" Event between 06/21/2021 and 06/27/2021, on the Flutter learning trail, taught by Instructor Gabriel Sávio [gabuldev](https://github.com/gabuldev). You can see the entire rocketseat project in this [repository](https://github.com/rocketseat-education/nlw-06-flutter). 
 
   
 
