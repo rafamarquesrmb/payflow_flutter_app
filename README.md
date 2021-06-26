@@ -25,8 +25,6 @@ This project was created following the (Rocketseat)[https://rocketseat.com.br/] 
 
 The Pay Flow Project consists of a Mobile Application to Manage "Pay Tickets". It has features such as the use of camera and cell phone gallery, MLKit for processing the bank slip image, Firebase for authenticating login with Google, Custom Widget Animations and Stylizations, Use of Flutter's Shared preferences, among others.
 
-### Application sample screens
-![Application sample screens](https://raw.githubusercontent.com/rafamarquesrmb/flutter_counter_app/main/sample.png)
   
 
 ## Technologies:
