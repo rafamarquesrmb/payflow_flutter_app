@@ -27,8 +27,8 @@ class InputTextWidget extends StatelessWidget {
       child: Column(
         children: [
           TextFormField(
-            onChanged: onChanged,
             controller: controller,
+            onChanged: onChanged,
             initialValue: initialValue,
             validator: validator,
             style: TextStyles.input,
@@ -50,7 +50,7 @@ class InputTextWidget extends StatelessWidget {
                     width: 1,
                     height: 48,
                     color: AppColors.stroke,
-                  ),
+                  )
                 ],
               ),
               border: InputBorder.none,
@@ -60,7 +60,7 @@ class InputTextWidget extends StatelessWidget {
             height: 1,
             thickness: 1,
             color: AppColors.stroke,
-          ),
+          )
         ],
       ),
     );

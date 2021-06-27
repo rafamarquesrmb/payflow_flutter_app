@@ -10,7 +10,6 @@ class DividerVerticalWidget extends StatelessWidget {
       width: 1,
       height: double.maxFinite,
       color: AppColors.stroke,
-      child: null,
     );
   }
 }

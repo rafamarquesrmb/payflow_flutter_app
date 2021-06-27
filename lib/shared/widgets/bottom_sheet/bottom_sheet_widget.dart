@@ -60,7 +60,7 @@ class BottomSheetWidget extends StatelessWidget {
                   color: AppColors.stroke,
                 ),
                 SetLabelButtons(
-                  enablePrymaryColor: true,
+                  enablePrimaryColor: true,
                   primaryLabel: primaryLabel,
                   primaryOnPressed: primaryOnPressed,
                   secondaryLabel: secondaryLabel,
